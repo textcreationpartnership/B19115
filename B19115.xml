@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King, a proclamation for the reliefe of His Majesties army, and good subjects in Ireland, with corne and other victuall</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19115</idno><idno type="EEBO-CITATION">19720697</idno>
+  <idno type="VID">205609</idno>
+  <idno type="EEBO-PROQUEST">2240856946</idno>
+  
+            <idno type="STC">Wing C2623</idno>
+            <idno type="OCLC">19720697</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19115)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205609)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1697:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King, a proclamation for the reliefe of His Majesties army, and good subjects in Ireland, with corne and other victuall</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>By Leonard Lichfield ...,</publisher>
+                  <pubPlace>Printed at Oxford :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Given at our court at Oxford, the 28 day of February, in the nineteenth yeare of our reigne."</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Army --  History.</term>
+               <term type="topical_term">Garrisons --  Ireland --  History.</term>
+               <term type="topical_term">Proclamations --  Great Britain.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:205609:1"/>
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown</figDesc>
+               </figure>
+            </head>
+            <head>BY THE KING.</head>
+            <head type="sub">¶ <hi>A Proclamation for the Reliefe of His Majesties Army, and good Subjects in</hi> Ireland, <hi>with Corne and other Victuall.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>EE have been lately informed by Our Lievtenant and Councell of Our Realme of <hi>Jreland,</hi> of great scarcity and dearnesse of Corne and other Provisions in Our City of <hi>Dublin,</hi> and other places in that Kingdome where some parts of Our Army are in Garrison, of which We are very compassionately sensible: and although We have in part indeavoured to supply them by causing Victualls to be sent unto them out of <hi>England</hi> and <hi>Wales</hi> at Our owne Charges, how pressing soever Our other occasions have been; Yet out of Our further Affectionate Care of Our Army, and other Our good Subjects there, not willing to omit any thing in Our Power which may tend to their reliefe, We have thought fit to give Licence, dureing the space of sixe Moneths next comming, for the free Exportation of certain Provisions from hence into some Ports in <hi>Ireland,</hi> discharged of all Customes and Subsidies: well hoping by meanes hereof, a good supply will be brought unto Our good Subjects there. We doe therefore hereby authorize and Command all Our Customers, Comp<g ref="char:EOLhyphen"/>trollers, Surveyers, and Searchers, in any of Our Ports of <hi>England</hi> or <hi>Wales,</hi> and all others whom it may concerne, to permit any Person or Persons, during the said space of sixe Moneths now next comming, after the date hereof, to put on Board and Export any quantity or quantities of Wheat, Rye, Oates, Pease, Bacon, Barelled Beef, Butter, and Cheese, with<g ref="char:EOLhyphen"/>out payment of any Custome, Subsidy, or other duty unto Us for the same. Provided, that Our respective Customers, or their Deputies, take Caution by Bond of all such as shall desire to Transport any of the said Provisions, That they shall within a convenient time (in the Bond to be limited) returne Certificate (under the Seale of the Port where they shall discharge) of the landing the same in some of Our Ports of <hi>Dublin, Drohedagh, Cork,</hi> or <hi>Kinsale,</hi> or such other Ports in <hi>Ireland,</hi> as Our Lievtenant and Councell of that Kingdome shall by Order of Our Councell Table there approve of (the danger of Transportation excepted.) And We doe also Charge and Command all Captaines, Masters, Owners, Mari<g ref="char:EOLhyphen"/>ners, and Souldiers, in any Ships imployed or to be imployed in Our Service, and all other Our Ministers and good Sub<g ref="char:EOLhyphen"/>jects, That they doe not give any interruption, let or hinderance to any shipping Merchants or Mariners, bringing the said Provisions into the said Ports in <hi>Ireland,</hi> either in their going or returne back; but rather that they give there all reasonable Protection and assistance, as they tender Our high displeasure, and will answer the contrary at their perills. And this Our Royall Favour, We doe require all Merchants, Trading in those parts, to take notice of, for their incourag<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ment in so charitable a worke, as the reliefe of Our distressed Subjects there, the cheerfull performance where of, We shall accompt as an acceptable service done unto Us.</p>
+            <closer>
+               <dateline>Given at Our Court at <hi>Oxford,</hi>
+                  <date>the 18 day of <hi>February,</hi> in the Nine<g ref="char:EOLhyphen"/>teenth yeare of Our Raigne.</date>
+               </dateline>
+               <lb/> GOD SAVE THE KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ <hi>Printed at</hi> Oxford, <hi>by</hi> Leonard Lichfield, <hi>Printer to the Ʋniversity,</hi> 1643.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
